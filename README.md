@@ -1,6 +1,4 @@
-# NLW Connect - CodeCraft Summit 2025 
-
-!(imagem/nlw-connect.png)
+![NLW Connect - CodeCraft Summit 2025](imagem/nlw-connect.png)
 
 Este projeto consiste em uma página web para o evento CodeCraft Summit 2025, desenvolvido durante a NLW Connect. A página oferece informações sobre o evento e um formulário de inscrição.
 
